@@ -2,7 +2,7 @@
 
 A script-type chatbot created on Python foundation.
 
-**Hello there**. This is `Bit chatbot` made via python. It supports many functionalities.
+**Hello there**. This is `Bit! Chatbot` made via python. It supports many functionalities.
 
 **Dependencies-** <br>
 `pip install wikipedia`                                 
