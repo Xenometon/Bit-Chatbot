@@ -4,11 +4,12 @@ A script-type chatbot created on Python foundation.
 
 **Hello there**. This is `Bit chatbot` made via python. It supports many functionalities.
 
-**Comatibility**: Any operationg system.
-
 **Dependencies-** <br>
 `pip install wikipedia`                                 
 `pip install pyjokes`
+
+**Compatibility**: Any operationg system.
+<br>
 
 <img align="centre" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Bit-Chatbot/main/Bit_chatbot.png">
 
