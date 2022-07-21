@@ -5,8 +5,8 @@ A script-type chatbot created on Python foundation.
 **Hello there**. This is `Bit! Chatbot` made via python. It supports many functionalities.
 
 **Dependencies-** <br>
-`pip install wikipedia`                                 
-`pip install pyjokes`
+- `pip install wikipedia`                                 
+- `pip install pyjokes`
 
 **Compatibility**: Any operationg system.
 <br>
@@ -15,3 +15,6 @@ A script-type chatbot created on Python foundation.
 
 
 > Acquire the above dependencies through their installation and then try running the project on a native IDE.
+
+
+------------------------
