@@ -56,6 +56,8 @@ def main():
          print("I am Bit Chatbot. Please tell how may I help you...")
         elif 'name' in string:
          print("My name is Bit. I am a Chatbot.")
+        elif 'who made you' in string:
+         print("I was made by Xenometon. You can visit his github for more information.")
         elif 'distro' in string:
          print("My favourite Linux distro is Arch Linux\n")
          print("""                           ##
