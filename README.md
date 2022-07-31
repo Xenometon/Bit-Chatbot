@@ -4,7 +4,7 @@
 
 **Hey there**. This is `Bit! Chatbot` made via python. It supports many functionalities.
 
-- Made via **Python** on [Arch Linux](https://github.com/Xenometon/Arch-Linux-art/blob/main/arch%20linux.png). 
+⇒ Made via **Python** on [Arch Linux](https://github.com/Xenometon/Arch-Linux-art/blob/main/arch%20linux.png). 
 
 **Dependencies-** <br>
 - `pip install wikipedia`                                 
