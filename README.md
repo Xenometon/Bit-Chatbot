@@ -10,7 +10,7 @@
 - `pip install wikipedia`                                 
 - `pip install pyjokes`
 
-**Compatibility**: *Any Operating system.*
+⇒ **Compatibility**: *Any Operating system.*
 <br>
 
 <img align="centre" alt="Coding" width="400" src="https://raw.githubusercontent.com/Xenometon/Bit-Chatbot/main/Bit_chatbot.png">
