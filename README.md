@@ -2,7 +2,7 @@
 
 ➡️ *A* **script-type chatbot** *created on Python foundation.*
 
-**Hey there**! This is `Bit Chatbot`, made via python. I support many Chatbot-functionalities.
+**Hey there**! This is `Bit Chatbot`, made via python. I support many general Chatbot-functionalities.
 
 - Made via **Python** on [Arch Linux](https://github.com/Xenometon/Arch-Linux-art/blob/main/arch%20linux.png). 
 
