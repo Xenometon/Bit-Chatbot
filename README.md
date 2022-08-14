@@ -1,6 +1,6 @@
 # Bit-Chatbot
 
-*A* **script-type chatbot** *created on Python foundation.*
+➡️ *A* **script-type chatbot** *created on Python foundation.*
 
 **Hey there**! This is `Bit Chatbot`, made via python. I support many Chatbot-functionalities.
 
