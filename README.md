@@ -4,7 +4,8 @@
 
 **Hey there**!
 
-- This is `Bit Chatbot` . I am your simple, friendly & talkative Chatbot, divergent from the conventional ones...
+- This is `Bit Chatbot`.
+- I am your simple & friendly Chatbot, divergent from the conventional ones...
 
 ➡️ **Dependencies-** <br>
 - `pip install wikipedia`                                 
