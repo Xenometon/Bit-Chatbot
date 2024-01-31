@@ -1,6 +1,6 @@
 # Bit-Chatbot
 
-// A **Script-type chatbot**, created on **Python foundation.**
+// A basic **Script-type chatbot**, created on **Python foundation.**
 
 **Hey there**!
 
