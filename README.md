@@ -4,7 +4,7 @@
 
 **Hey there**!
 
-- This is `Bit Chatbot`.
+- This is `Bit`.
 - I am your simple & friendly Chatbot, divergent from the conventional ones...
 
 ➡️ **Dependencies-** <br>
